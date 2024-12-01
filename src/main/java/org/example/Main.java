@@ -8,4 +8,4 @@ public class Main {
         new ControladorBanco(vista, 5000.0);
         vista.setVisible(true)
     }
-}
+]
